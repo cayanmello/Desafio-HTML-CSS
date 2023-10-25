@@ -4,6 +4,8 @@
 
 Repositório Desafio-HTML-CSS da Academia .NET 6
 
+Site em desenvolvimento!
+
 ## ✔️ Recursos Utilizados
 
 - ``HTML``
