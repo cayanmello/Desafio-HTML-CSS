@@ -96,3 +96,37 @@ label {
   height: 10em !important;
   resize: none;
 }
+
+input {
+  background-color: transparent;
+  border: 2px solid white;
+  outline: none;
+  color: white;
+}
+
+textarea {
+  background-color: transparent;
+  border: 2px solid white;
+  outline: none;
+  color: white;
+}
+
+::-webkit-input-placeholder {
+   color: white;
+   font: 12px verdana, arial, sans-serif;
+}
+
+:-moz-placeholder {
+   color: white;
+   font: 12px verdana, arial, sans-serif;
+}
+
+::-moz-placeholder {
+   color: white;  
+   font: 12px verdana, arial, sans-serif;
+}
+
+:-ms-input-placeholder {  
+   color: white;  
+   font: 12px verdana, arial, sans-serif;
+}
