@@ -4,7 +4,7 @@
 
 Repositório Desafio-HTML-CSS da Academia .NET 6
 
-Proposta do Desafio: 
+## Proposta do Desafio: 
 
 Desenvolva um site para uma empresa, com todas informações da empresa. A página deve possuir, no mínimo, os seguintes requisitos (ou reutilize uma já desenvolvida que possua no mínimo 4 páginas html):
 Página inicial: crie uma página inicial que apresente uma breve introdução ao site e tenha um menu de navegação com links para outras páginas do site.
@@ -18,6 +18,7 @@ Página "Galeria": crie uma página "Galeria" que inclua uma galeria de imagens 
 Em alguma das páginas deve existir uma tabela onde apresente dados, por exemplo, dados comparativos de modelos de algum aparelho. Além disso, o menu de navegação deverá existir em todas as páginas para que possibilite a navegação completa em todas as páginas.
 
 
+## Contribuições
 Contribuições são sempre bem-vindas! Se você deseja melhorar ou estender este projeto, fique à vontade para abrir problemas ou enviar solicitações de pull.
 
 ## ✔️ Recursos Utilizados
